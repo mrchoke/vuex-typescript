@@ -1,7 +1,6 @@
 <template>
   <div class="home">
-    Vuex and TypeScript Example
-    <hello-world />
+    <hello-world msg="Vuex and TypeScript Example" />
   </div>
 </template>
 
